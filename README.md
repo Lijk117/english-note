@@ -37,7 +37,7 @@
 git clone https://github.com/hzpt-inet-club/english-note.git
 ```
 
-2. 进入更目录后
+2. 进入根目录后
 
 ```shell
 yarn init
@@ -47,6 +47,13 @@ yarn init
 ```shell
 yarn docs:dev
 ```
+
+4. 如果运行失败，需检查自己是否没安装 vuepress
+```
+yarn global add vuepress
+```
+
+   
 
 ## 使用说明
 
