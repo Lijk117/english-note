@@ -51,6 +51,7 @@ yarn docs:dev
 4. 如果运行失败，需检查自己是否没安装 vuepress
 ```
 yarn global add vuepress
+yarn add vue-template-compiler
 ```
 
    
